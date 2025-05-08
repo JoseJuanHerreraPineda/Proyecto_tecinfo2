@@ -1,0 +1,50 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #00ff88;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #004d40;
+    color: white;
+}
+
+/* Navegación */
+nav {
+    background-color: #00695c;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Sección principal */
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+main img {
+    max-width: 100%;
+    height: auto;
+    border: 5px solid #004d40;
+}
